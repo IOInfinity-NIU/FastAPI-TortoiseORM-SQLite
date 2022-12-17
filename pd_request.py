@@ -10,7 +10,7 @@ class ProductRequestModel(BaseModel):
     product_name: str = Field(
         title="Product name",
         default="Mac mini M2",
-        max_length=15image.png
+        max_length=64
     )
     product_type: ProductTypes = Field(
         title="Product type",
