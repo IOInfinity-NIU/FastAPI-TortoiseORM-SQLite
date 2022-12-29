@@ -1,6 +1,6 @@
 # FastAPI-TortoiseORM-Aerich-SQLite [Practice]
 
-Try to create API routes to create, read, update and delete database with Python, Tortoise ORM, Aerich migration and SQLite(or PostgreSQL MySQL)
+Try to create API routes to create, read, update and delete database with Python, FastAPI, Tortoise ORM, Aerich migration and SQLite(or PostgreSQL MySQL)
 
 
  ![alt IOInfinity x 源碼無限](./ioinfinity-YT.png)
