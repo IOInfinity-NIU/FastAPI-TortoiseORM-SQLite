@@ -27,11 +27,16 @@
 > https://www.youtube.com/watch?v=uTFKKokhtHs
 
 
-**6. [Python][FastAPI] - Create a API route to uppdate data of database with Tortoise ORM [Patch]**
+**6. [Python][FastAPI] - Create a API route to uppdate data of database with Tortoise ORM [PATCH]**
 
 > https://www.youtube.com/watch?v=dEhbMsJiD9w
 
 
-**7. [Python][FastAPI] - Create a API route to delete data from database with Tortoise ORM [Delete]**
+**7. [Python][FastAPI] - Create a API route to delete data from database with Tortoise ORM [DELETE]**
 
 > https://www.youtube.com/watch?v=HijEgVI0FfM
+
+
+**8. [Python][FastAPI] - Redoc and Swagger**
+
+> https://www.youtube.com/watch?v=TZt5YMgR1KE
